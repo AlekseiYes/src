@@ -48,13 +48,13 @@
                             <div class="form-group row pb-3 ">
                               <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
                               <div class="col-sm-10">
-                                <input type="Email" class="form-control" name="email" id="inputEmail" required>
+                                <input type="Email" class="form-control" name="email" id="inputEmail" placeholder="Enter your Email" required>
                               </div>
                             </div>
                             <div class="form-group row">
                               <label for="inputName" class="col-sm-2 col-form-label">Name</label>
                               <div class="col-sm-10">
-                                <input type="text" class="form-control" name="name" id="inputName" required>
+                                <input type="text" class="form-control" name="name" id="inputName" placeholder="Enter you Name" required>
                               </div>
                             </div>
                             <br>
