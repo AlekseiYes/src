@@ -44,7 +44,7 @@
                             Leave Inquiry   
                         </h1>
                         
-                        <form class="px-3 py-3"><br>
+                        <form class="px-3 py-3" method="post" action="process.php"><br>
                             <div class="form-group row pb-3 ">
                               <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
                               <div class="col-sm-10">
@@ -60,7 +60,7 @@
                             <br>
                             <div class="form-group row" style="text-align: left;">
                                 <div class="col-sm-2"></div>
-                                <div class="col-sm-10"><input class="btn-bottom" type="submit" value="Submit"></button></div>
+                                <div class="col-sm-10"><input class="btn-bottom" name="submit" type="submit" value="Submit"></div>
                                 </div>
                             </div>
                             
