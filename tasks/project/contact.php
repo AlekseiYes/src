@@ -4,7 +4,12 @@
     $hero_title = "We are G6";
     $description = "Welcome to G6! We are a passionate and dedicated team of IT student and professionals with a keen interest in software development.Our commitment to delivering high-quality results, coupled with a love for continuous learning, has driven our professional growth";
 
+
     include "header.php"?>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="header.css">
+    <link rel="stylesheet" type="text/css" href="styling-phuoc.css">
+    
         <div class="content">   
         <div class="container-lg py-5">
             <div class="row">
